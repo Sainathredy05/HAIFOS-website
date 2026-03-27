@@ -64,7 +64,7 @@ const biharPrograms = [
   },
   {
     title: "Digital Skills Workshops & Seminars",
-    desc: "One-day workshops and seminars designed to build digital awareness and foundational technology skills.",
+    desc: "One-day workshops and seminars designed to build digital awareness and Policy Advocacy.",
     icon: <svg className="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0z" /></svg>,
     box1Title: "WHO IT HELPS",
     box1Desc: "Students and young learners interested in understanding digital tools and online opportunities.",

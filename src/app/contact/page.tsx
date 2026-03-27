@@ -82,7 +82,7 @@ export default function ContactPage() {
                 </svg>
               ),
               label: 'Call Us',
-              value: '+91 7739962314',
+              value: '+91 7709963514',
             },
             {
               icon: (

@@ -13,7 +13,7 @@ export default function DonatePage() {
         <div className="relative z-10 text-center px-6 max-w-3xl mx-auto">
           <h1 className="text-5xl md:text-7xl font-black text-white mb-5 leading-tight">Donate Us</h1>
           <p className="text-xl text-white/80 max-w-2xl mx-auto leading-relaxed">
-            Your contribution helps bridge the digital divide for youth, childern by providing access, education, and opportunity.
+            Your contribution helps bridge the digital divide for youth and childern by providing access, education, and opportunity.
           </p>
         </div>
       </section>

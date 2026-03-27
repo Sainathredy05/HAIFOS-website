@@ -92,7 +92,7 @@ export default function DonatePage() {
 
             {/* Details */}
             <div className="p-10">
-              <div className="grid grid-cols-2 gap-6 mb-6">
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
                 <div>
                   <span className="text-[10px] uppercase tracking-widest font-bold text-text-muted block mb-1">Account Name</span>
                   <p className="font-black text-gray-900">HAIFOS INNOVATIVE FORUM</p>

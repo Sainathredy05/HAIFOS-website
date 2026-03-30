@@ -69,7 +69,7 @@ export default function AboutPage() {
           </motion.h1>
           <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.4 }}
             className="text-lg md:text-2xl text-white/90 font-medium leading-relaxed">
-            HAIFOS (Humanity in AI for Social Innovative Forum for Social Impact) is a non-profit organization dedicated to bringing digital equity to rural India.
+            HAIFOS (Humanity in AI for Social Innovative Forum ) is a non-profit organization dedicated to bringing digital equity to rural India.
           </motion.p>
         </div>
       </section>
